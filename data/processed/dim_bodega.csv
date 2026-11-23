@@ -1,0 +1,5 @@
+id_bodega,nombre_bodega,zona_medellin,proveedor_principal,lead_time_dias,costo_almacenamiento_cop
+1,Bodega Central Guayabal,Guayabal,Distribuidora Antioqueña S.A.S,3,15000
+2,Centro Logístico Itagüí,Sur - Itagüí,Importaciones Aburrá,5,12000
+3,Punto Norte Bello,Norte - Bello,Comercializadora del Norte,4,13500
+4,Sede El Poblado,El Poblado,Suministros Premium COL,2,22000

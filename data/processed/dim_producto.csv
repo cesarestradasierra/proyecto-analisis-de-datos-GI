@@ -1,0 +1,101 @@
+id_producto,nombre_producto,categoria,marca,precio_usd,stock_minimo,estado_disponibilidad
+1,Essence Mascara Lash Princess,beauty,Essence,9.99,48,In Stock
+2,Eyeshadow Palette with Mirror,beauty,Glamour Beauty,19.99,20,In Stock
+3,Powder Canister,beauty,Velvet Touch,14.99,22,In Stock
+4,Red Lipstick,beauty,Chic Cosmetics,12.99,40,In Stock
+5,Red Nail Polish,beauty,Nail Couture,8.99,22,In Stock
+6,Calvin Klein CK One,fragrances,Calvin Klein,49.99,9,In Stock
+7,Chanel Coco Noir Eau De,fragrances,Chanel,129.99,1,In Stock
+8,Dior J'adore,fragrances,Dior,89.99,10,In Stock
+9,Dolce Shine Eau de,fragrances,Dolce & Gabbana,69.99,2,Low Stock
+10,Gucci Bloom Eau de,fragrances,Gucci,79.99,2,In Stock
+11,Annibale Colombo Bed,furniture,Annibale Colombo,1899.99,1,In Stock
+12,Annibale Colombo Sofa,furniture,Annibale Colombo,2499.99,1,In Stock
+13,Bedside Table African Cherry,furniture,Furniture Co.,299.99,3,In Stock
+14,Knoll Saarinen Executive Conference Chair,furniture,Knoll,499.99,5,In Stock
+15,Wooden Bathroom Sink With Mirror,furniture,Bath Trends,799.99,2,Low Stock
+16,Apple,groceries,Genérico / Sin Marca,1.99,7,In Stock
+17,Beef Steak,groceries,Genérico / Sin Marca,12.99,43,In Stock
+18,Cat Food,groceries,Genérico / Sin Marca,8.99,18,In Stock
+19,Chicken Meat,groceries,Genérico / Sin Marca,9.99,22,In Stock
+20,Cooking Oil,groceries,Genérico / Sin Marca,4.99,46,In Stock
+21,Cucumber,groceries,Genérico / Sin Marca,1.49,2,In Stock
+22,Dog Food,groceries,Genérico / Sin Marca,10.99,43,In Stock
+23,Eggs,groceries,Genérico / Sin Marca,2.99,32,In Stock
+24,Fish Steak,groceries,Genérico / Sin Marca,14.99,50,In Stock
+25,Green Bell Pepper,groceries,Genérico / Sin Marca,1.29,12,In Stock
+26,Green Chili Pepper,groceries,Genérico / Sin Marca,0.99,39,Low Stock
+27,Honey Jar,groceries,Genérico / Sin Marca,6.99,47,In Stock
+28,Ice Cream,groceries,Genérico / Sin Marca,5.49,42,In Stock
+29,Juice,groceries,Genérico / Sin Marca,3.99,25,In Stock
+30,Kiwi,groceries,Genérico / Sin Marca,2.49,30,In Stock
+31,Lemon,groceries,Genérico / Sin Marca,0.79,29,In Stock
+32,Milk,groceries,Genérico / Sin Marca,3.49,5,In Stock
+33,Mulberry,groceries,Genérico / Sin Marca,4.99,43,In Stock
+34,Nescafe Coffee,groceries,Genérico / Sin Marca,7.99,8,In Stock
+35,Potatoes,groceries,Genérico / Sin Marca,2.29,9,In Stock
+36,Protein Powder,groceries,Genérico / Sin Marca,19.99,6,In Stock
+37,Red Onions,groceries,Genérico / Sin Marca,1.99,8,In Stock
+38,Rice,groceries,Genérico / Sin Marca,5.99,20,In Stock
+39,Soft Drinks,groceries,Genérico / Sin Marca,1.99,10,In Stock
+40,Strawberry,groceries,Genérico / Sin Marca,3.99,12,In Stock
+41,Tissue Paper Box,groceries,Genérico / Sin Marca,2.49,44,In Stock
+42,Water,groceries,Genérico / Sin Marca,0.99,28,In Stock
+43,Decoration Swing,home-decoration,Genérico / Sin Marca,59.99,8,In Stock
+44,Family Tree Photo Frame,home-decoration,Genérico / Sin Marca,29.99,15,In Stock
+45,House Showpiece Plant,home-decoration,Genérico / Sin Marca,39.99,3,In Stock
+46,Plant Pot,home-decoration,Genérico / Sin Marca,14.99,31,In Stock
+47,Table Lamp,home-decoration,Genérico / Sin Marca,49.99,2,In Stock
+48,Bamboo Spatula,kitchen-accessories,Genérico / Sin Marca,7.99,29,In Stock
+49,Black Aluminium Cup,kitchen-accessories,Genérico / Sin Marca,5.99,48,In Stock
+50,Black Whisk,kitchen-accessories,Genérico / Sin Marca,9.99,40,In Stock
+51,Boxed Blender,kitchen-accessories,Genérico / Sin Marca,39.99,4,In Stock
+52,Carbon Steel Wok,kitchen-accessories,Genérico / Sin Marca,29.99,9,In Stock
+53,Chopping Board,kitchen-accessories,Genérico / Sin Marca,12.99,5,In Stock
+54,Citrus Squeezer Yellow,kitchen-accessories,Genérico / Sin Marca,8.99,38,In Stock
+55,Egg Slicer,kitchen-accessories,Genérico / Sin Marca,6.99,32,In Stock
+56,Electric Stove,kitchen-accessories,Genérico / Sin Marca,49.99,8,In Stock
+57,Fine Mesh Strainer,kitchen-accessories,Genérico / Sin Marca,9.99,43,In Stock
+58,Fork,kitchen-accessories,Genérico / Sin Marca,3.99,36,In Stock
+59,Glass,kitchen-accessories,Genérico / Sin Marca,4.99,17,In Stock
+60,Grater Black,kitchen-accessories,Genérico / Sin Marca,10.99,5,In Stock
+61,Hand Blender,kitchen-accessories,Genérico / Sin Marca,34.99,11,In Stock
+62,Ice Cube Tray,kitchen-accessories,Genérico / Sin Marca,5.99,16,In Stock
+63,Kitchen Sieve,kitchen-accessories,Genérico / Sin Marca,7.99,5,In Stock
+64,Knife,kitchen-accessories,Genérico / Sin Marca,14.99,50,Low Stock
+65,Lunch Box,kitchen-accessories,Genérico / Sin Marca,12.99,39,In Stock
+66,Microwave Oven,kitchen-accessories,Genérico / Sin Marca,89.99,4,In Stock
+67,Mug Tree Stand,kitchen-accessories,Genérico / Sin Marca,15.99,45,In Stock
+68,Pan,kitchen-accessories,Genérico / Sin Marca,24.99,17,In Stock
+69,Plate,kitchen-accessories,Genérico / Sin Marca,3.99,6,In Stock
+70,Red Tongs,kitchen-accessories,Genérico / Sin Marca,6.99,23,In Stock
+71,Silver Pot With Glass Cap,kitchen-accessories,Genérico / Sin Marca,39.99,10,In Stock
+72,Slotted Turner,kitchen-accessories,Genérico / Sin Marca,8.99,34,In Stock
+73,Spice Rack,kitchen-accessories,Genérico / Sin Marca,19.99,18,In Stock
+74,Spoon,kitchen-accessories,Genérico / Sin Marca,4.99,15,In Stock
+75,Tray,kitchen-accessories,Genérico / Sin Marca,16.99,23,In Stock
+76,Wooden Rolling Pin,kitchen-accessories,Genérico / Sin Marca,11.99,11,In Stock
+77,Yellow Peeler,kitchen-accessories,Genérico / Sin Marca,5.99,6,In Stock
+78,Apple MacBook Pro 14 Inch Space Grey,laptops,Apple,1999.99,1,In Stock
+79,Asus Zenbook Pro Dual Screen Laptop,laptops,Asus,1799.99,1,In Stock
+80,Huawei Matebook X Pro,laptops,Huawei,1399.99,1,In Stock
+81,Lenovo Yoga 920,laptops,Lenovo,1099.99,1,In Stock
+82,New DELL XPS 13 9300 Laptop,laptops,Dell,1499.99,1,In Stock
+83,Blue & Black Check Shirt,mens-shirts,Fashion Trends,29.99,18,In Stock
+84,Gigabyte Aorus Men Tshirt,mens-shirts,Gigabyte,24.99,16,In Stock
+85,Man Plaid Shirt,mens-shirts,Classic Wear,34.99,13,In Stock
+86,Man Short Sleeve Shirt,mens-shirts,Casual Comfort,19.99,4,Low Stock
+87,Men Check Shirt,mens-shirts,Urban Chic,27.99,12,In Stock
+88,Nike Air Jordan 1 Red And Black,mens-shoes,Nike,149.99,1,In Stock
+89,Nike Baseball Cleats,mens-shoes,Nike,79.99,3,In Stock
+90,Puma Future Rider Trainers,mens-shoes,Puma,89.99,10,In Stock
+91,Sports Sneakers Off White & Red,mens-shoes,Off White,119.99,5,In Stock
+92,Sports Sneakers Off White Red,mens-shoes,Off White,109.99,3,In Stock
+93,Brown Leather Belt Watch,mens-watches,Fashion Timepieces,89.99,7,In Stock
+94,Longines Master Collection,mens-watches,Longines,1499.99,1,In Stock
+95,Rolex Cellini Date Black Dial,mens-watches,Rolex,8999.99,1,In Stock
+96,Rolex Cellini Moonphase,mens-watches,Rolex,12999.99,1,In Stock
+97,Rolex Datejust,mens-watches,Rolex,10999.99,1,In Stock
+98,Rolex Submariner Watch,mens-watches,Rolex,13999.99,1,In Stock
+99,Amazon Echo Plus,mobile-accessories,Amazon,99.99,9,In Stock
+100,Apple Airpods,mobile-accessories,Apple,129.99,4,In Stock
